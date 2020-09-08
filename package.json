@@ -1,0 +1,22 @@
+{
+    "name": "parcial_web",
+    "version": "1.0.0",
+    "description": "Parcial de Desarrollo de Aplicaciones Web",
+    "main": "app-js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Alejowilches0112/Parcial_Web.git"
+    },
+    "author": "Jonatan Jimenez, Valentina Orjuela, Cristian Wilches",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Alejowilches0112/Parcial_Web/issues"
+    },
+    "homepage": "https://github.com/Alejowilches0112/Parcial_Web#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
